@@ -4,7 +4,11 @@
 
 ![动作总览](previews/contact-sheet.png)
 
-## 安装
+## 独立 Windows 版
+
+不安装 Codex 也能运行。下载 [Mon3tr 便携版 ZIP](downloads/Mon3tr-standalone-win-x64.zip)，解压后双击 `Mon3tr.exe`。拖动桌宠时会按鼠标移动距离迈步，停下来会回到待机；右键角色可退出。独立版的源码、构建方法和素材见 [standalone/README.md](standalone/README.md)。
+
+## 安装 Codex 版
 
 将 [`pet/m3`](pet/m3) 文件夹复制到 Codex 的宠物目录：
 

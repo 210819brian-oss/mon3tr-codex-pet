@@ -1,0 +1,12 @@
+{
+  "walk_frames": 64,
+  "idle_frames": 6,
+  "distinct_walk_frames": 64,
+  "min_visible_pixels_walk": 20235,
+  "min_visible_pixels_idle": 30118,
+  "mean_adjacent_change": 1.298,
+  "largest_adjacent_change": 2.11,
+  "loop_seam_change": 0.959,
+  "strong_magenta_edge_pixels": 0,
+  "ok": true
+}
