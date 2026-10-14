@@ -1,7 +1,7 @@
 {
   "id": "m3",
   "displayName": "Mon3tr",
-  "description": "黑绿发色与尖耳大袖的 Codex 桌宠，拖动时会迈步。",
+  "description": "以《明日方舟》角色 Mon3tr 为原型的非官方 Codex 桌宠，拖动时会迈步。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
